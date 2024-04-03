@@ -15,11 +15,11 @@
     --fonte-secundario: "Josefin Sans";
     --preto: #000000;
     --cinza: #474646;
-    --cinza-claro: #858585;
+    --maroon: #800000;
 }
 
 body, html {
-    background: linear-gradient(to bottom, #800000 0%,#000000 100%);
+    background: linear-gradient(to bottom, #ffffff 0%,#000000 100%);
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
